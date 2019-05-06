@@ -4,7 +4,7 @@ package net.dedim.myApp1;
  * The Functions created by Dedimoe on 04/05/19.
  */
 
-public class MainnActivity extends BaseActivity {
+public class MainActivity extends BaseActivity {
 
     ImageView ivSidikJari;
     ImageView ivFaceRecognition;
